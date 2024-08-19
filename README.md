@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **StayBus**
 
-- 🌱 I’m currently learning **Flutter, Mobile App Development**
+- 🌱 I’m currently learning **Swift, Mobile App Development**
 
 - 📫 How to reach me **zhu1158@purdue.edu**
 
